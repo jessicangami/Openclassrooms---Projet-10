@@ -1,5 +1,5 @@
 # Openclassrooms---Projet-10
-- Modélisez les ventes d'un ensemble de magasins avec Python
+Modélisez les ventes d'un ensemble de magasins avec Python
 
 ## Objectifs pédagogiques
  - Synthétiser des résultats de l'analyse de la performance pour établir des recommandations
